@@ -105,6 +105,11 @@
         "url": "https://emoji.slack-edge.com/T713Y5BTR/deal_with_it_parrot/a706a0103fc03774.gif"
     },
     {
+        "name": "debug",
+        "extension": ".png",
+        "url": "https://emoji.slack-edge.com/T713Y5BTR/debug/d7982847af9d0dd3.png"
+    },
+    {
         "name": "desespoir",
         "extension": ".jpg",
         "url": "https://emoji.slack-edge.com/T713Y5BTR/desespoir/2eef07b878d87aba.jpg"
