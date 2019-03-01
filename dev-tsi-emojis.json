@@ -25,6 +25,11 @@
         "url": "https://emoji.slack-edge.com/T713Y5BTR/angry_bear/b5eb0cf147900aa7.png"
     },
     {
+        "name": "angry_doge",
+        "extension": ".png",
+        "url": "https://emoji.slack-edge.com/T713Y5BTR/angry_doge/3fcaa830260076e4.png"
+    },
+    {
         "name": "angry_french",
         "extension": ".png",
         "url": "https://emoji.slack-edge.com/T713Y5BTR/angry_french/523a139902c5cd44.png"
@@ -53,6 +58,11 @@
         "name": "bananadance",
         "extension": ".gif",
         "url": "https://emoji.slack-edge.com/T713Y5BTR/bananadance/d49a6910f46a9aa7.gif"
+    },
+    {
+        "name": "bimco",
+        "extension": ".png",
+        "url": "https://emoji.slack-edge.com/T713Y5BTR/bimco/0f061d0bd01a36a8.png"
     },
     {
         "name": "cage",
@@ -313,6 +323,11 @@
         "name": "pirate_flag",
         "extension": ".png",
         "url": "https://emoji.slack-edge.com/T713Y5BTR/pirate_flag/17cdd15f092dce01.png"
+    },
+    {
+        "name": "psyduck",
+        "extension": ".png",
+        "url": "https://emoji.slack-edge.com/T713Y5BTR/psyduck/3c0a27e9347a267e.png"
     },
     {
         "name": "rainbow_puke",
