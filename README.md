@@ -2,9 +2,9 @@
 
 Tutorial :
 
-- With Chrome go to https://devgroupetrace.slack.com/customize/emoji
-- Execute content of snippet.js into DevTools console
-- Wait until the script will gather all the emojis
-- Copy paste the result into a dev-tsi-emojis.json by example
-- Execute `downloadEmojis.sh dev-tsi-emojis.json`
-- 🎉 You now have all your emojis stored in the `output` folder 🎉
+1. Get a token _via_ DevTools (may found as `token` in some request parameter)
+1. Go to https://api.slack.com/methods/emoji.list/test
+1. Execute request with previously found token
+1. save JSON result
+1. Execute `./downloadEmojis.sh emojis.json`
+1. 🎉 All your emojis are now on disk 🎉
