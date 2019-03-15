@@ -14,7 +14,7 @@
         "shipit": "alias:squirrel",
         "white_square": "alias:white_large_square",
         "black_square": "alias:black_large_square",
-        "simple_smile": "https:\/\/cfr.slack-edge.com\/21511\/img\/emoji_2017_12_06\/apple\/simple_smile.png",
+        "simple_smile": "https:\/\/a.slack-edge.com\/21511\/img\/emoji_2017_12_06\/apple\/simple_smile.png",
         "me_gusta": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/me_gusta\/68065dd1a3c55975.png",
         "lol": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/lol\/fa32a7a167fb225c.png",
         "pcmr": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/pcmr\/8c2f6b6961489ce7.png",
@@ -110,7 +110,8 @@
         "bimco": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/bimco\/0f061d0bd01a36a8.png",
         "pikawhat": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/pikawhat\/1311ef72cb525265.png",
         "pikah": "alias:pikawhat",
-        "linkgrrr": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/linkgrrr\/3fb2911314ec16e7.png"
+        "linkgrrr": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/linkgrrr\/3fb2911314ec16e7.png",
+        "xd-patate": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/xd-patate\/fbf98cee3cd87dd9.png"
     },
-    "cache_ts": "1551774910.007700"
+    "cache_ts": "1551947925.011400"
 }
