@@ -111,7 +111,12 @@
         "pikawhat": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/pikawhat\/1311ef72cb525265.png",
         "pikah": "alias:pikawhat",
         "linkgrrr": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/linkgrrr\/3fb2911314ec16e7.png",
-        "xd-patate": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/xd-patate\/fbf98cee3cd87dd9.png"
+        "xd-patate": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/xd-patate\/fbf98cee3cd87dd9.png",
+        "css": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/css\/8c44c2bb3b6d1e06.png",
+        "f": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/f\/29a6091e443dd7cd.png",
+        "rollsafe": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/rollsafe\/3dbaa82d41a2cc79.png",
+        "unsettled-tom": "https:\/\/emoji.slack-edge.com\/T713Y5BTR\/unsettled-tom\/cba246c39797c97b.jpg",
+        "roll-safe": "alias:rollsafe"
     },
-    "cache_ts": "1551947925.011400"
+    "cache_ts": "1553095562.027100"
 }
