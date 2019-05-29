@@ -4,6 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [scripts]
+"cheatsheet" = "python src/GenerateCheatsheet.py"
 "fetch:slack" = "python src/DumpSlack.py"
 "import:mattermost" = "python src/MattermostImport.py"
 
