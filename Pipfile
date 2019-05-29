@@ -4,13 +4,15 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [scripts]
-"fetch" = "python fetchFromSlack.py"
+"fetch:slack" = "python src/DumpSlack.py"
+"import:mattermost" = "python src/MattermostImport.py"
 
 [dev-packages]
 black = "*"
 
 [packages]
 requests = "*"
+mattermostdriver = "*"
 
 [requires]
 python_version = "3.7"
